@@ -1,5 +1,5 @@
 {
-  "name": "react-pdf",
+  "name": "react-pdf-preview",
   "version": "1.0.0",
   "description": "PDF preview compoent using pdfJS Edit",
   "main": "src/index.js",
