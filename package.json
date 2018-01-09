@@ -1,0 +1,21 @@
+{
+  "name": "react-pdf",
+  "version": "1.0.0",
+  "description": "PDF preview compoent using pdfJS Edit",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshujain/react-pdf.git"
+  },
+  "author": "Priyanshu Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/priyanshujain/react-pdf/issues"
+  },
+  "homepage": "https://github.com/priyanshujain/react-pdf#readme",
+  "dependencies": {
+    "pdfjs-dist": "^2.0.254",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0"
+  }
+}
